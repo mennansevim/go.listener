@@ -1,3 +1,3 @@
 
 # gp-product-consumer
-It listens gp-product-api's tasks and create products via catalog api.
+It listens some tasks from kafka and create products via api.
