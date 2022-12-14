@@ -1,0 +1,3 @@
+confluentKafka:
+  brokers: [REPLACEME],
+  version: 2.2.0
